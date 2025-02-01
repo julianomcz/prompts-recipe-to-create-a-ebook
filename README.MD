@@ -29,31 +29,40 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [DeepSeek](https://chat.deepseek.com/) 
+- [Leonard](https://www.leonard.ai)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+Deep Seek：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |  Longevidade - Guia prático para vencer a sarcopenia                                                       |
+| conteúdo | faça um texto para ebook, para homens com mais de 40 anos, com foco em longevidade através do combate a sarcopenia utilizando a musculação como base. 
+
+{REGRAS}
+>Explique de uma maneira simples
+>Deixe o texto enxuto
+> Comece explicando o processo de sarcopenia
+> Em seguida explique a relação da idade e a queda da testosterona como fator ponderante no processo de sarcopemia
+>explique o que é volume de treino
+> Logo após dê exemplos de treinos de baixo volume para hipertrofia para homens acima dos 40 anos
+> Explique o que é o Tratamento de Reposição de testosterona |
 
 
-Midjourney：
+Leonard：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título |  |crie uma imagem com o tema "Musculando a Longevidade: Guia Prático para Vencer a Sarcopenia", coloque um idoso feliz, magro e com musculatura mediana.
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Deep Seek
+- Imagens geradas via Leonard
 
 ## 📚 Materiais
 
